@@ -3,6 +3,18 @@
   "texts": {
     "Menu:Home": "Ana sayfa",
     "Welcome": "Hoşgeldiniz",
-    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz."
+    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz.",
+
+    "Menu:BookStore": "Kitap Dükkanı",
+    "Menu:Books": "Kitaplar",
+    "Actions": "Aksiyonlar",
+    "Edit": "Düzenle",
+    "PublishDate": "Yayınlanma Tarihi",
+    "NewBook": "Yeni Kitap",
+    "Name": "Adı",
+    "Type": "Tipi",
+    "Price": "Fiyatı",
+    "CreationTime": "Oluşturulduğu tarih",
+    "AreYouSureToDelete": "Silmek istediğinize emin misiniz?"
   }
 }
