@@ -55,4 +55,9 @@
     <PackageReference Include="Volo.Abp.FeatureManagement.Web" Version="2.7.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Account\" />
+    <Folder Include="Themes\Basic\Components\MainSideBar\" />
+  </ItemGroup>
+
 </Project>
